@@ -88,12 +88,6 @@ npx expo start
 
 6. Scan the QR code with Expo Go app on your phone
 
-## Screenshots
-
-| Login | Home | Details | Profile |
-|-------|------|---------|---------|
-| <img src="screenshots/login.jpg" width="200"/> | <img src="screenshots/home.jpg" width="200"/> | <img src="screenshots/details.jpg" width="200"/> | <img src="screenshots/profile.jpg" width="200"/> |
-
 ## What I Learned
 
 - Setting up navigation with React Navigation (nested stack + tab navigators)
